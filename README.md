@@ -2,6 +2,15 @@
 
 A very simple example of using cypress created for a lightining talk.
 
+After you clone this:
+
+### `npm install`
+### `npm start`
+
+And in another terminal:
+
+### `npx cypress open`
+
 You can see recordings of the test runs on the [cypress dashboard](https://dashboard.cypress.io/#/projects/bk2pgm/runs)
 
 # Redux Todos Example
