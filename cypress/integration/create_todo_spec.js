@@ -10,5 +10,11 @@ describe('My First Test', function() {
 
       cy.get('#root > div > div > form > button')
       .click()
+
+      cy.get('#root > div > div > form > input')
+      .type('two')
+
+      cy.get('#root > div > div > form > button')
+      .click()
   })
 })

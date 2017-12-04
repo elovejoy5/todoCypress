@@ -11,6 +11,8 @@ And in another terminal:
 
 ### `npx cypress open`
 
+If you don't have npx, try `./node_modules/.bin/cypress  open`
+
 You can see recordings of the test runs on the [cypress dashboard](https://dashboard.cypress.io/#/projects/bk2pgm/runs)
 
 # Redux Todos Example
